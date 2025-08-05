@@ -24,3 +24,4 @@ try:
     print(undefined_variable)  # This variable is not defined
 except NameError as e:
     print("NameError caught:", e)
+
